@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @AgarkarPranav07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you can email me on pranavagarkar8@gmail.com
+<div align="center">
 
-<!---
-AgarkarPranav07/AgarkarPranav07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Pranav Agarkar 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=C%2B%2B+Developer;Problem+Solver;Passionate+Coder)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, passionate about competitive programming and building efficient solutions. I love working with clean code and solving complex problems through Data Structures & Algorithms.
+
+**Tech Stack:** C++ | Python | Django | React | SQL | Git
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=PranavAgarkar07&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavagarkar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavagarkar8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://pranavagarkar07.github.io/portfolio-svelte)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!**
+
+</div>
