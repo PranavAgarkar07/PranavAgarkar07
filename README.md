@@ -18,15 +18,6 @@ I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, pa
 
 </div>
 
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=PranavAgarkar07&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
