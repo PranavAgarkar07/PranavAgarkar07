@@ -18,7 +18,11 @@ I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, pa
 
 </div>
 
-
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PranavAgarkar07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PranavAgarkar07&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAgarkar07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
 ## 🌐 Connect
