@@ -19,10 +19,38 @@ I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, pa
 </div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PranavAgarkar07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PranavAgarkar07&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAgarkar07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<div align="center">
+
+# 📊 GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavAgarkar07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=PranavAgarkar07&theme=highcontrast&hide_border=false" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://leetcode.com/PranavAgarkar07">
+  <img align="center" src="https://leetcard.jacoblin.cool/PranavAgarkar07?theme=dark&font=EB%20Garamond&ext=heatmap" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavagarkar07" />
+</a>
+
+</div>
+
 ---
 
 ## 🌐 Connect
