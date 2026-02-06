@@ -31,9 +31,9 @@ I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, pa
 <!-- <br/>
 <br/> -->
 
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=PranavAgarkar07&theme=highcontrast&hide_border=true" />
-</a>
+</a> -->
 
 <br/>
 <br/>
