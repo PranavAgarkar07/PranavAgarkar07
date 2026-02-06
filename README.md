@@ -35,9 +35,6 @@ I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, pa
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=PranavAgarkar07&theme=highcontrast&hide_border=true" />
 </a> -->
 
-<br/>
-<br/>
-
 <a href="https://leetcode.com/PranavAgarkar07">
   <img align="center" src="https://leetcard.jacoblin.cool/PranavAgarkar07?theme=dark&font=Noto%20Sans%20Thaana" />
 </a>
