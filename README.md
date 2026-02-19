@@ -42,7 +42,7 @@ I'm a **BTech CSE student** at **Walchand Institute of Technology, Solapur**, pa
 <br/>
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="#">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavagarkar07" />
 </a>
 
