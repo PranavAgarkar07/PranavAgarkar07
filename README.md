@@ -18,7 +18,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=PranavAgarkar07&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://leetcard.jacoblin.cool/PranavAgarkar07?theme=dark&font=Noto%20Sans%20Thaana" />
 </div>
 
 <div align="center">
