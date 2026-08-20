@@ -60,6 +60,7 @@
   <a href="https://www.linkedin.com/in/pranavagarkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pranavagarkar07.github.io/portfolio-svelte"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:pranavagarkar8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/pranavagarkar"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </div>
 
 <div align="center">
