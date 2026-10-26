@@ -64,5 +64,6 @@
 <br/>
 <a href="https://www.buymeacoffee.com/pranavagarkar"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" height="20"/></a>
 <br/><br/>
-<small>70+ repos · GSSoC 2026 Project Admin, global rank #129 · open to backend &amp; cloud infra roles</small>
+<small>Journey: HTML/CSS (2021) → JavaScript/Python experiments → Django/React full-stack → Go/Wails systems &amp; RL environments — early experiments archived, kept as proof of the grind<br/>
+GSSoC 2026 Project Admin, global rank #129 · open to backend &amp; cloud infra roles</small>
 </div>
